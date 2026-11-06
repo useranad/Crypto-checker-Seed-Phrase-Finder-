@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>CryptoChecker</RootNamespace>
+    <AssemblyName>CryptoChecker</AssemblyName>
+    <Version>4.6.0</Version>
+    <Company>Crypto Checker</Company>
+    <Product>Crypto Checker seed phrases</Product>
+    <Description>Demo / educational source for cryptocurrency balance checker UI</Description>
+    <Copyright>Copyright © 2026 t.me/notcoin2055</Copyright>
+  </PropertyGroup>
+
+</Project>
